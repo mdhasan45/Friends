@@ -1,0 +1,34 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import './navbar/navbar';
+@import './footer/footer.scss';
+@import './hero.section/hero';
+@import './profile-showcase/profile.scss';
+@import './image-gallery/image.scss';
+@import './abir/abir.scss';
+@import './about/about.scss';
+@import './niloy/niloy.scss';
+@import './hasan/hasan.scss';
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color: #fff;
+}
+
+.extra-margin{
+        margin-top: 100px;
+    }
+
+
+
+// padding: 0.5rem ;
+//         background-image: linear-gradient(90deg,#8b62ff , #3b1bff);
+//         border: none;
+//         outline: none;
